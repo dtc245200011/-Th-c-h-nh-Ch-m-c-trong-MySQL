@@ -1,0 +1,3 @@
+
+-- Thời gian thực thi tổng: 0.120s
+-- Rows examined: 17123
